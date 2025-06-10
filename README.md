@@ -14,10 +14,10 @@ An interactive dashboard created in Power BI to visualize and analyze Superstore
 - Excel (for preprocessing)
 
 ## 🖼️ Dashboard Preview
-![Superstore_Sales_Dashboard](https://bit.ly/3Zhbl3g)
+![Superstore_Sales_Dashboard](Superstore_Sales_Dashboard.png)
 
 ## 🎥 Project Demo
-![Watch the video](https://bit.ly/superstore-pbix)
+![Watch the video](Superstore_Sales_Dashboard.mp4)
 
 
 
