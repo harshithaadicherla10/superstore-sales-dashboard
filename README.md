@@ -17,7 +17,7 @@ An interactive dashboard created in Power BI to visualize and analyze Superstore
 ![Superstore_Sales_Dashboard](Superstore_Sales_Dashboard.png)
 
 ## 🎥 Project Demo
-![Watch the video](Superstore Sales Dashboard.mp4)
+![Watch the video](Superstore_Sales_Dashboard1.mp4)
 
 
 
